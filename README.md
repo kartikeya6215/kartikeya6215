@@ -76,18 +76,6 @@
 
 ---
 
-## 📊 Stats & Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeya6215&theme=tokyonight&show_icons=true&count_private=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya6215&theme=tokyonight&layout=compact)
-
-</div>
-
----
-
 ## 🌟 Core Strengths
 
 ```
@@ -106,7 +94,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya6215)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://kartikeya6215.github.io)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: kartikeya.bca@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikeya6215)
 
 </div>
